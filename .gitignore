@@ -9,9 +9,8 @@ browser_profile/
 .env
 
 # Contact Data (User-Specific)
-data/contacts.csv
 data/send_log.csv
-data/contacts copy.csv
+data/contacts.csv
 data/contacts.txt
 
 # Python Cache
