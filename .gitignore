@@ -1,0 +1,31 @@
+# Virtual Environment
+venv/
+.venv
+env/
+
+# Personal Files
+resume.pdf
+browser_profile/
+.env
+
+# Contact Data (User-Specific)
+data/contacts.csv
+data/send_log.csv
+data/contacts copy.csv
+data/contacts.txt
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db

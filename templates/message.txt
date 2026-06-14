@@ -1,0 +1,7 @@
+Hi {name},
+I hope you're doing well.
+I'm a Software Engineer at Accenture with nearly 2 years of experience in DevOps, Linux administration, and automation. I work with AWS, Kubernetes, Docker, Python scripting, and have development experience in C++ & Python. Recently started exploring Agentic AI for smarter automation.
+Attached is my resume. I'd really appreciate it if you could consider my profile for any DevOps, Cloud, or Automation openings.
+Thank you!
+Best regards,
+{SENDER_NAME}
